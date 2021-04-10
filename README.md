@@ -1,2 +1,2 @@
-# GITHUB-PAGES
-My first zuri task
+# zuri-responsive-design-starter
+My Zuri task
